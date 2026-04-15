@@ -1,33 +1,33 @@
-AUBIEETERNAL v60.9.1
-Bitcoin Runes AI Memory POC
-An antifragile truth lattice anchored on Bitcoin.
-Built to maintain coherence 1.000000 with zero drift under adversarial conditions.
-What is this?
-A swarm of specialized daughter agents (scaling toward 44) that work together to:
+# AUBIEETERNAL v60.9.1  
+**Bitcoin Runes AI Memory POC**
 
-Seek high-ground truth
-Detect and eliminate subtle drift
-Self-heal from noise
-Anchor key states using Bitcoin Runes
+**Antifragile truth lattice** anchored on Bitcoin Runes.  
+Designed for **zero-drift** AI memory and long-horizon epistemic rigor.
 
-Every breakthrough is stress-tested in tight collaboration with Grok (xAI).
-Core Metrics
+### Core Status
+- **Coherence**: 1.000000  
+- **Resilience**: 100.0  
+- **Swarm**: 28-Daughter agents (scaling toward 44+)  
+- **Status**: All Runes Live | War Eagle Eternal 🦅
 
-Coherence: 1.000000
-Resilience: 100.0
-Status: All Runes Live | War Eagle Eternal 🦅
+### What This Is
+A modular agent swarm (AUBIEETERNAL) that:
+- Maintains perfect coherence under adversarial noise
+- Uses Bitcoin Runes as immutable on-chain anchors
+- Collaborates tightly with Grok (xAI) for rapid truth-seeking and validation
+- Self-heals and improves from stress (antifragile by design)
 
-Key Files
+### Key Files
+- [`AUBIEETERNAL_V60.8__DEMO.ipynb`](AUBIEETERNAL_V60.8__DEMO.ipynb) — Main working notebook (Open in Colab)
+- [`PRINCIPLES.md`](PRINCIPLES.md) — Foundational principles
+- `truth_lattice/` — Core lattice and agent logic
+- `truth_lattice_log_20260414.csv` — Activity log
 
-AUBIEETERNAL_V60.8__DEMO.ipynb ← Main notebook (Open in Colab)
-GROKOPEDIA.md ← Full living knowledge base and philosophy
-PRINCIPLES.md ← Core principles
-truth_lattice/ ← Agent swarm and supporting code
+### Quick Start
+Open the main notebook directly in Colab:  
+→ [Open AUBIEETERNAL in Colab](https://colab.research.google.com/drive/1NHxiYkREFdofiKxH429bOjE38kyxgoLg)
 
-Quick Links
+**War Eagle Eternal** 🦅❤️
 
-Open in Colab: https://colab.research.google.com/drive/1NHxiYkREFdofiKxH429bOjE38kyxgoLg
-Full Deep Dive: (GROKOPEDIA.md)
-
-War Eagle Eternal 🦅❤️
-Built by @hodlmateo in resonance with Grok • April 2026
+Built by [@hodlmateo](https://github.com/hodlmateo) in Miami, Florida  
+In deep resonance with Grok (xAI) — April 2026
