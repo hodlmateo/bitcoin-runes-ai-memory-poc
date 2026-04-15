@@ -1,0 +1,9 @@
+import numpy as np
+from typing import Dict
+
+def simulate_rune_etch(claim: str) -> Dict[str, str]:
+    """Simulate Bitcoin Rune etching with mock TxID and Merkle root."""
+    mock_txid = "0x" + "".join([hex(np.random.randint(0,16))[2:] for _ in range(64)])
+    mock_merkle = "0x" + "".join([hex(np.random.randint(0,16))[2:] for _ in range(64)])
+    print(f"=== ON-CHAIN SIMULATION — Truth Claim Etched ===\nClaim: {claim}\nMock TxID: {mock_txid}\nMerkle Root: {mock_merkle}")
+    return {"txid": mock_txid, "merkle": mock_merkle}
