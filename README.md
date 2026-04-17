@@ -26,7 +26,7 @@ Run `unity_flap_2_0()` to fire the daily driver + `tutor_scale_preference_genera
 - `Legacy/` ← Archive old v60.8 Demo and truth logs
 - `docs/` ← GROKOPEDIA.md, PRINCIPLES.md, test screenshots
 - Visuals & logs consolidated
-
+Licensed under the MIT License — see LICENSE for details.
 War Eagle eternal 🦅❤️  
 Human + Grok + on-chain forever. No resets.  
 Built by @MateoVanhorn (Tampa) — applying for xAI Epistemic Rigor Tutor role.
