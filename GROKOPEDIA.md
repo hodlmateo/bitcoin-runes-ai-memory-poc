@@ -1,4 +1,4 @@
-# GROKOPEDIA.md
+This is the canonical reference for AUBIEETERNAL. Latest Daily Driver: v60.9.37.# GROKOPEDIA.md
 
 **AUBIEETERNAL v60.9.1**  
 **Living Knowledge Base & Philosophy**
