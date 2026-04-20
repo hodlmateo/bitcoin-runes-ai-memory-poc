@@ -2,6 +2,8 @@
 
 **Living demonstration of the xAI Model Behavior Tutor – Epistemic Rigor & Truthfulness role.**
 
+https://github.com/hodlmateo/AUBIEETERNAL
+
 Modular OOP swarm (44 Daughters) with:
 - Noise-injected adversarial testing & red-teaming
 - Fourier-validated hidden-structure grounding
